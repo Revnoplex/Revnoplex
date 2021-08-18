@@ -8,7 +8,7 @@
 
 <h1>Revnoplex</h1>
 
-<h2>li make code that doesn't work and breaks everything. Do not make fun of my shitty code 😠</h2>
+<h2>I make code that doesn't work and breaks everything. Do not make fun of my shitty code 😠</h2>
 
 <p><a href="https://revnoplex.github.io">click here to go to site</a>
 <!--<button onclick="document.location='page2.html'">also click here</button>-->
