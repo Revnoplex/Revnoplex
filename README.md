@@ -14,7 +14,7 @@
 <!--<button onclick="document.location='page2.html'">also click here</button>-->
 <br>
 <br>
-<img src="/untitled.GIF" alt="hi-res.gif">
+<img src="/xtreme-pfp.GIF" alt="hi-res.gif">
 
 </body>
 </html>
