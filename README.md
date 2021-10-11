@@ -8,10 +8,14 @@
 
 <h1>Revnoplex</h1>
 
-<h2>I make code that doesn't work and breaks everything. Do not make fun of my shitty code 😠</h2>
+<h2>I make code that doesn't work and breaks everything.</h2>
 
 <p><a href="https://revnoplex.github.io">click here to go to site</a>
 <!--<button onclick="document.location='page2.html'">also click here</button>-->
+<br>
+  <p><b>Active Projects:</b></p>
+  <p><a href="https://github.com/Revnoplex/revnoplex.github.io">revnoplex.github.io</a></p>
+  <p>Revnobot (proprietary). maybe snapshot will be released soon
 <br>
 <br>
 <img src="/xtreme-pfp.GIF" alt="hi-res.gif">
