@@ -10,7 +10,7 @@
 
 This is a list of projects I am maintaining the most recently:
 
-- [revnoplex.github.io](https://github.com/Revnoplex/revnoplex.github.io) - The repository for my webpage
+- [revnoplex.github.io](https://github.com/Revnoplex/revnoplex.github.io) - The repository for my webpage. Primarily HTML and CSS based with a bit of JavaScript
 
 - [Revnobot](https://github.com/Revnoplex/revnobot-public) - A general purpose discord bot written in python using the [Pycord](https://github.com/Pycord-Development/pycord) library. The code is propriatary but you can add my bot [here](https://revnoplex.github.io/bot).
 
