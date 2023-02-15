@@ -16,7 +16,8 @@
   <p><b>Active Projects:</b></p>
   <p><a href="https://github.com/Revnoplex/revnoplex.github.io">revnoplex.github.io</a></p>
   <p><a href="https://github.com/Revnoplex/ayt-api">ayt-api</a></p>
-  <p>Revnobot (proprietary). maybe snapshot will be released soon
+  <p><a href="https://github.com/Revnoplex/vidtty">vidtty</a></p>
+  <p>Revnobot (proprietary)
 <br>
 <br>
 <img src="/xtreme-pfp.GIF" alt="hi-res.gif">
