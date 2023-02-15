@@ -4,7 +4,7 @@
 
 [Webpage](https://revnoplex.github.io)
 
-[Also Click Here](https://revnoplex/github.io/fun)
+[Also Click Here](https://revnoplex.github.io/fun)
 
 ### Active Projects
 
