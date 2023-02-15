@@ -10,13 +10,13 @@
 
 This is a list of projects I am maintaining the most recently:
 
-[revnoplex.github.io](https://github.com/Revnoplex/revnoplex.github.io) - The repository for my webpage
+- [revnoplex.github.io](https://github.com/Revnoplex/revnoplex.github.io) - The repository for my webpage
 
-[Revnobot](https://github.com/Revnoplex/revnobot-public) - A general purpose discord bot written in python using the [Pycord](https://github.com/Pycord-Development/pycord) library. The code is propriatary but you can add my bot [here](https://revnoplex.github.io/bot).
+- [Revnobot](https://github.com/Revnoplex/revnobot-public) - A general purpose discord bot written in python using the [Pycord](https://github.com/Pycord-Development/pycord) library. The code is propriatary but you can add my bot [here](https://revnoplex.github.io/bot).
 
-[vidtty](https://github.com/Revnoplex/vidtty) - A command line based video player written in python that converts and plays videos using ascii characters. Shown exclusely in [this video](https://www.youtube.com/watch?v=OSnveMc77ss).
+- [vidtty](https://github.com/Revnoplex/vidtty) - A command line based video player written in python that converts and plays videos using ascii characters. Shown exclusely in [this video](https://www.youtube.com/watch?v=OSnveMc77ss).
 
-[ayt-api](https://github.com/Revnoplex/ayt-api) - A basic asynchronous, object oriented python library for the YouTube api.
+- [ayt-api](https://github.com/Revnoplex/ayt-api) - A basic asynchronous, object oriented python library for the YouTube api.
  
 
 
