@@ -1,6 +1,6 @@
 # Revnoplex
 
-## Hey, I'm Revnoplex, I write code that doesn't work and breaks everything.
+## Hey, I'm Revnoplex. I write code that doesn't work and breaks everything.
 
 [Webpage](https://revnoplex.github.io)
 
