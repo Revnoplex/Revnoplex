@@ -19,7 +19,7 @@ This is a list of projects I am maintaining the most recently:
 
 - [ayt-api](https://github.com/Revnoplex/ayt-api) - A basic asynchronous, object oriented python library for the YouTube api.
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Revnoplex&theme=shadow-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Revnoplex&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **Revnoplex/Revnoplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
