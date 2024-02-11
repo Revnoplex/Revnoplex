@@ -5,7 +5,7 @@
 
 [Webpage](https://revnoplex.github.io)
 
-[Also Click Here](https://revnoplex.github.io/fun)
+[Secret website](https://revnoplex.github.io/fun)
 
 ### Active Projects
 
@@ -15,7 +15,7 @@ This is a list of projects I am maintaining the most recently:
 
 - [Revnobot](https://github.com/Revnoplex/revnobot-public) - A general purpose discord bot written in python using the [Pycord](https://github.com/Pycord-Development/pycord) library. The code is propriatary but you can add my bot [here](https://revnoplex.github.io/bot).
 
-- [vidtty](https://github.com/Revnoplex/vidtty) - A command line based video player written in python that converts and plays videos using ascii characters. Shown exclusely in [this video](https://www.youtube.com/watch?v=OSnveMc77ss).
+- [vidtty](https://github.com/Revnoplex/vidtty) - A command line based video player written in python that converts and plays videos using ascii characters. Featured in [this video](https://www.youtube.com/watch?v=OSnveMc77ss).
 
 - [ayt-api](https://github.com/Revnoplex/ayt-api) - A basic asynchronous, object oriented python library for the YouTube api.
  
