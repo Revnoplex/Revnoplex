@@ -7,6 +7,13 @@
 
 [Secret website](https://revnoplex.xyz/fun)
 
+### Known Languages:
+I mainly know/write in these programming languages.
+- Python (most fluent)
+- C (still learning)
+- Bash (I only use this for creating personal automation scripts)
+- JS (still learning it and only use it for parts of my personal website)
+
 ### Active Projects
 
 This is a list of projects I am maintaining the most recently:
