@@ -3,9 +3,9 @@
 ## Hey, I'm Revnoplex.
 ### I Write code that doesn't work and breaks everything.
 
-[Webpage](https://revnoplex.github.io)
+[Webpage](https://revnoplex.xyz)
 
-[Secret website](https://revnoplex.github.io/fun)
+[Secret website](https://revnoplex.xyz/fun)
 
 ### Active Projects
 
