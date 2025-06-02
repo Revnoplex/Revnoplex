@@ -3,17 +3,19 @@
 ## Hey, I'm Revnoplex.
 ### I Write code that doesn't work and breaks everything.
 
-[Webpage](https://revnoplex.xyz)
+https://revnoplex.xyz
 
 [Secret website](https://revnoplex.xyz/fun)
 
-### Active Projects
+### ~~Active~~ Projects
 
-This is a list of projects I am maintaining the most recently:
+This is a list of projects ~~I am maintaining the most recently~~ *not*:
 
 - [revnoplex.github.io](https://github.com/Revnoplex/revnoplex.github.io) - The repository for my webpage. Mostly written as HTML and JavaScript.
 
 - [Revnobot](https://github.com/Revnoplex/revnobot-public) - A general purpose utility, entertainment and music bot written in python using the [Pycord](https://github.com/Pycord-Development/pycord) library. The code is propriatary but you can add my bot [here](https://revnoplex.xyz/bot).
+
+- [SomeRandomLlamaBot](https://github.com/Revnoplex/some-random-llama-bot) - A stripped down and open sourced version of revnobot used to interact with ollama llms I have running on discord.
 
 - [vidtty](https://github.com/Revnoplex/vidtty) - A command line based video player written in python that converts and plays videos using ascii characters. Featured in [this video](https://www.youtube.com/watch?v=OSnveMc77ss).
 
